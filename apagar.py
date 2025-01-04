@@ -2,7 +2,7 @@ import paramiko
 import tkinter as tk
 from tkinter import messagebox
 
-# Tema de colores en tonos azules
+# Tema de colores para la intefaz grafica
 bg_color = "#d8eefe"  # Fondo general azul claro
 fg_color = "#002f6c"  # Texto azul oscuro
 entry_bg = "#ffffff"  # Fondo de entrada blanco
